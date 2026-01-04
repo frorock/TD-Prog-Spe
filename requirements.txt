@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+praw
+xmltodict
+scipy
+tqdm
